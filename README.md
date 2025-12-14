@@ -1,4 +1,4 @@
-# Usage de l'Intelligence Artificielle pour la production de nouvelles biomolécules d'intérêt
+# * Usage de l'Intelligence Artificielle pour la production de nouvelles biomolécules d'intérêt
 
 ##  Objectif du projet
 
@@ -43,7 +43,7 @@ L'objectif était d'en apprendre davantage sur l'usage de l'intelligence artific
 Étude réalisée dans le cadre du projet de pré-spécialisation en Biotechnologies.
 
 -----
-# Étude de la colonisation et des effets des souches microbiennes biofertilisantes  
+# * Étude de la colonisation et des effets des souches microbiennes biofertilisantes  
 ## Effet d’un stress hydrique et influence de la variété sur la croissance de la plante
 
 ---
